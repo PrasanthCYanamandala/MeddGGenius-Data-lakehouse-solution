@@ -1,7 +1,7 @@
 # 🏥 Modern Data Platform for MeddGGenius  
 *A Cloud-Based Data Lakehouse Solution*
 
-This repository contains Group 2’s final project for the course **BUAN 6335.502 – Organizing for Business Analytics Platforms** at UT Dallas. The project proposes a comprehensive data lakehouse architecture for **MeddGGenius**, a regional healthcare provider aiming to modernize its data infrastructure using AWS cloud services.
+This repository contains project for the course **Organizing for Business Analytics Platforms** at UT Dallas. The project proposes a comprehensive data lakehouse architecture for **MeddGGenius**, a regional healthcare provider aiming to modernize its data infrastructure using AWS cloud services.
 
 ## 💡 Problem Statement
 
@@ -70,18 +70,6 @@ MeddGGenius is struggling with:
 - Enhanced care delivery with ML insights
 - Reduced operational costs and system lag
 - Scalable infrastructure to support innovation
-
----
-
-## 👥 Team – Group 2
-
-- Adithya Ramakrishnan  
-- Eunsung Choi  
-- Jurgen Wulur  
-- Kartik Shah  
-- Prasanth Chowdary Yanamandala  
-- Richard Yang  
-- Tanmay Raju Shedge
 
 ---
 
